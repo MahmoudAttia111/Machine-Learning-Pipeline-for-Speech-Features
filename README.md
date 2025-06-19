@@ -1,4 +1,4 @@
-# Speech Features Analysis and Classification
+# Machine Learning Pipeline for Speech Features
 
 ## Project Description
 This project implements a comprehensive machine learning pipeline for analyzing and classifying speech features. The workflow includes:
@@ -48,10 +48,6 @@ pip install -r requirements.txt
 ### 4. Run the Jupyter Notebook
 Open the file `project1.ipynb` in Jupyter Notebook or Google Colab and execute the cells sequentially.
 
-## Dataset
-- **Name**: Parkinson's Speech Features Dataset
-- **Source**: [`pd_speech_features.csv`](D:/data%20science/Machine%20Learning/New%20folder/33%20hesham%20Machine2024/L%2031-20250211T081413Z-001/L%2031/pd_speech_features.csv)
-- The dataset contains speech signal features useful for Parkinson's disease classification.
 
 ## Results
 - **Best Performing Model**: Random Forest Classifier.
